@@ -1,6 +1,6 @@
 # pshah22.github.io
 
-Hello World,
+## Hello World,
 
 My Github User page is at :
 www.github.com/pshah22/
